@@ -1,4 +1,4 @@
-# parcha_app
+# BillEasy_App
 
 A new Flutter project.
 
